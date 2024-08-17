@@ -1,0 +1,64 @@
+body{
+	background-color: pink;
+	background-image: url(https://i.pinimg.com/originals/57/61/5b/57615b8c0092a66c1d4058b1692955cc.gif);
+background-size: 200px;
+background-repeat: no-repeat;
+background-position: 100% 100%;
+background-attachment: fixed;
+}
+p{
+	font-size: 0.9in;
+	color: orchid;
+	background-image: url(https://s.tmimgcdn.com/scr/800x500/279300/fioletovij-spalah-hd-fonove-zobrazenna-8048-pikseliv--4500-pikseliv_279306-original.jpg);
+	background-size: cover;
+}
+#first{
+	width: 500px;
+	height: 500px;
+	background-image: url(https://st3.depositphotos.com/5087075/19500/i/1600/depositphotos_195004442-stock-illustration-tulips-drawing-on-silk-watercolor.jpg);
+	background-size: cover;
+	border: 30px ridge #b8acae;
+}
+#second{
+	width: 400px;
+	height: 400px;
+	background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR91uyT8gYec4RQ9Kkd_3k2_dseZ7Lit1phgA&s);
+	background-size: cover;
+	margin: 50px;
+	border: 30px solid;
+	border-image: linear-gradient(orchid, aqua,lime) 30;
+	
+}
+#third{
+	width: 400px;
+	height: 400px;
+	 border: 20px ridge;
+    border-image: linear-gradient(red, yellow, black) 30;
+    background-image: url(https://i.gifer.com/5zoL.gif);
+   background-repeat: no-repeat;
+	background-position: 50% 50%;
+	margin-bottom: 20px;
+
+}
+#forth{
+	width: 50%;
+	margin: auto;
+	display: block;
+	border-radius: 50%;
+	box-shadow: 10px -10px 50px lime;
+}
+#programmer{
+	width: 70%;
+	background-color: blueviolet;
+	margin: auto;
+	display: block;
+	border-radius: 5%;
+	box-shadow: 0 0 50px lightgrey;
+}
+#fifth{
+	width: 400px;
+	height: 400px;
+background-image: linear-gradient(rgba(255, 255, 0, 0.5),rgba(0, 0, 255, 0.5)), 
+url(../img/programmer-and-engineering-development-coding-web-development-website-design-developer-flat-vector.jpg);
+background-size: cover;
+}

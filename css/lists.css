@@ -1,0 +1,34 @@
+@import url('https://fonts.googleapis.com/css2?family=Rubik+Moonrocks&display=swap');
+body{
+	background-color: lightseagreen;
+}
+p{
+	font-size: 50px;
+	color: yellow;
+	background-color: royalblue;
+	font-family: "Rubik Moonrocks", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  text-shadow: 2px -2px orange;
+}
+ul,ol,dl{
+	font-size: 24px;
+	color: gold;
+}
+.l1 li{
+	padding-left: 10px;
+}
+.l2 li::marker{
+	color: green;
+}
+ol{
+	margin-left: 50px;
+}
+@counter-style emoji {
+  system: cyclic;
+  symbols: 😘 😙 😉 😝 🥶 😹 🐭 🐀 🕸️ 🗣️ 🧔‍♂️;
+  suffix: " ";
+}
+.l3 {
+	list-style: emoji;
+}

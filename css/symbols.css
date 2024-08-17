@@ -1,0 +1,85 @@
+body{
+	background-color: aqua;
+}
+p{
+	font-size: 50px;
+}
+.p1{
+	color: red;
+	background-color: black;
+}
+.p2{
+	color: darkred;
+	background-color: sandybrown;
+	font-family: sans-serif;
+	text-decoration: underline;
+}
+.p3{
+	font-family: cursive;
+	text-decoration: underline;
+	text-underline-position: under;
+	text-decoration-color: pink;
+}
+.p4{
+	font-family: monospace;
+	font-style: italic;
+	text-decoration: underline;
+	text-underline-position: under;
+	text-decoration-color: blue;
+	text-decoration-style: wavy;
+	text-emphasis: filled double-circle #ffb703;
+}
+.p5{
+	font-family: fantasy;
+	text-decoration: line-through;
+	text-decoration-color: green;
+	text-decoration-style: dashed;
+}
+.p6{
+	font-family: Georgia,Times, "Times New Roman",  serif;
+	text-shadow: 2px -2px grey;
+}
+.p7{
+	font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.p8{
+font-family: "Rubik Beastly", system-ui;
+text-shadow: 0 0 25px darkorange;
+color: darkmagenta;
+text-transform: uppercase;
+}
+.p9{
+	font-family: "Kablammo", system-ui;
+}
+.p10{
+	font-family: "Great Vibes", cursive;
+	font-weight: bold;
+
+}
+.p11{
+	font-family: "Pacifico", cursive;
+}
+.s1{
+	font-size: 2em;
+	color: darkorange;
+	text-shadow: 0 0 30px black;
+	font-family: "Rubik Beastly", system-ui;
+
+}
+.p12{
+	text-shadow:
+    1px 1px 2px black,
+    0 0 1em blue,
+    0 0 0.2em blue;
+  color: white;
+}
+.p13{
+	font-family: "Amatic SC", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+.p14{
+	font-family: "BIZ UDPGothic", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
